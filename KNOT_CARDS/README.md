@@ -12,7 +12,7 @@ card over to check: the back marks the pattern's mirrors, glides and turn centre
 ## What is in the PDF
 
 1. The instruction sheet: the four kinds of card, how to play, and the nine targets with their groups.
-2. Pages 2–5: four sheets of 12 pattern cards (48 in all: 16 T, 16 G, 8 R, 8 L).
+2. Pages 2–5: four sheets of 12 pattern cards (48 in all: 16 T, 16 G, 8 R, 8 E).
 3. Pages 6–7: nine target cards and three reference cards (rules, how to read the backs, questions to wonder
    about), fronts on page 6 and backs on page 7.
 4. Page 8: two box wraps, front and bottom.
