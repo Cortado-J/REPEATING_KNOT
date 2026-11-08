@@ -1,6 +1,6 @@
-# Knot Cards
+# Repeating Knot Cards
 
-**[Download Knot-Cards.pdf](Knot-Cards.pdf)**: a pack of 52 Celtic knot cards to print and cut out.
+**[Download Knot-Cards.pdf](Knot-Cards.pdf)**: Repeating Knot Cards, a pack of 52 Celtic knot cards to print and cut out.
 
 Every card is a little patch of knotwork, and every one can be turned any way: wherever it goes, the ribbons
 still pass alternately over and under. Lay four cards in a square, repeat the square, and the knot takes on one
