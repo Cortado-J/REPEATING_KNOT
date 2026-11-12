@@ -1,6 +1,7 @@
 # Repeating Knot Cards
 
 **[Download Knot-Cards.pdf](Knot-Cards.pdf)**: Repeating Knot Cards, a pack of 60 Celtic knot cards to print and cut out.
+Their home is [knotworthy.co.uk/K2026-06](https://knotworthy.co.uk/K2026-06).
 
 Every card is a little patch of knotwork, and every one can be turned any way: wherever it goes, the ribbons
 still pass alternately over and under. Lay four cards in a square, repeat the square, and the knot takes on one
@@ -24,11 +25,5 @@ card over to check: the back marks the pattern's mirrors, glides and turn centre
 - Heavy card, 300 gsm or more. Cards are 60 mm square; cut on the crop marks.
 - Box wraps: each is 140 mm square, a 60 mm face with a 40 mm border to fold round the sides. The ticks in the
   margins mark the fold lines.
-
-## Licence
-
-You are welcome to print, copy, share and adapt these cards, including for clubs, classrooms and events.
-Please credit me: *Repeating Knot Cards by Justin Roughley, licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*. See [LICENSE](LICENSE).
 
 Justin Roughley, 2026
