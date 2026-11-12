@@ -26,4 +26,10 @@ card over to check: the back marks the pattern's mirrors, glides and turn centre
 - Box wraps: each is 140 mm square, a 60 mm face with a 40 mm border to fold round the sides. The ticks in the
   margins mark the fold lines.
 
+## Licence
+
+You are welcome to print, copy, share and adapt these cards, including for clubs, classrooms and events.
+Please credit me: *Repeating Knot Cards by Justin Roughley, licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*. See [LICENSE](LICENSE).
+
 Justin Roughley, 2026
