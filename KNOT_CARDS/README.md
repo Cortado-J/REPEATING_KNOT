@@ -17,7 +17,8 @@ work out its group. Hard: find all nine groups with the pattern cards alone.
 
 The cards (Knot-Cards.pdf, 7 pages):
 
-1. The instruction sheet: the four kinds of card, how to play, the three challenges and how to read the names.
+1. The instructions: a leaflet of 20 panels (the four kinds of card, how to play, the three challenges, how to read
+   the names) that folds along its dotted lines to lie on the cards in the box.
 2. Pages 2–5: four sheets of 12 pattern cards (48 in all: 16 T, 16 G, 8 R, 8 E).
 3. Page 6: nine target cards and three reference cards (rules, how to read the backs, questions to wonder about).
 4. Page 7: the box, a lid and a tray.
@@ -27,12 +28,13 @@ and the backs of the target and reference cards.
 
 ## Printing
 
-- A4, at 100% ("actual size", not "fit to page"). Heavy card, 300 gsm or more. Cards are 60 mm square; cut on
-  the crop marks.
+- A4, at 100% ("actual size", not "fit to page"). Page 1, the instructions, on ordinary paper: zig-zag it along the
+  dotted lines, across first, then down. The other pages on heavy card, 300 gsm or more. Cards are 60 mm square;
+  cut on the crop marks.
 - For double-sided targets, print page 2 of the solutions on the back of page 6 of the cards, flipping on the
   long edge.
 - The box: glue its page onto thin card, such as a cereal box. Cut on the solid lines, score and fold the dashed
-  ones, and glue each flap inside the wall it meets. The lid fits over the tray.
+  ones, and glue each flap inside the wall it meets. The lid fits over the tray, and the box holds the cards with the folded instructions on top.
 
 ## Licence
 
